@@ -1,10 +1,8 @@
-# JetBot
-
-<!--[<img src="https://img.shields.io/discord/553852754058280961.svg">](https://discord.gg/Ady6NtF) -->
+# JetBot - Waveshare
 
 > Looking for a quick way to get started with JetBot?  Many third party kits are [now available](https://jetbot.org/master/third_party_kits.html)!
 
-<img src="../..//wiki/images/jetson-jetbot-illustration_1600x1260.png" height="256">
+<img src="assets/images/waveshare_jetbot.jpg" height="256">
 
 JetBot is an open-source robot based on NVIDIA Jetson Nano that is
 
@@ -17,3 +15,10 @@ Building and using JetBot gives the hands on experience needed to create entirel
 To get started, read the [JetBot documentation](https://jetbot.org).
 
 
+---
+
+## Reference
+
+- [Waveshare kit](https://www.waveshare.com/catalog/product/view/id/3755)
+- [JetBot Org](https://jetbot.org/master/third_party_kits.html)
+- [JetBot Wiki](https://www.waveshare.com/wiki/JetBot_AI_Kit)
