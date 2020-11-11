@@ -27,6 +27,7 @@ To get started, read the [JetBot documentation](https://jetbot.org).
 ### Camera
 
 * [How to connect camera](https://www.okdo.com/project/get-started-with-jetson-nano-and-csi-camera/?ok_ts=1604953055958)
+* [Link 2](https://www.jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/)
 
 ### Connect PWM Fan
 
